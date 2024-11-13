@@ -1,5 +1,10 @@
+body {
+    display: block;
+    margin: 0;
+}
+
 .homepage {
-    background-color: #000000;
+    background-color: #006234;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -15,6 +20,7 @@
   }
   
   .homepage .navbar {
+    background-color: #1E1E1E;
     position: absolute;
     width: 1450px;
     height: 95px;
