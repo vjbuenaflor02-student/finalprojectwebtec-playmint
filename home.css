@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .homepage {
     background-color: #1e1e1e;
     display: flex;
