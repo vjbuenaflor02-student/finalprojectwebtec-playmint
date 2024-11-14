@@ -1,3 +1,32 @@
+/* Fonts */
+
+@font-face {
+  font-family: "redhatdisp" ;
+  src: url('resources/fonts/rhd.ttf');
+}
+
+@font-face {
+  font-family: "redhatdispB" ;
+  src: url('resources/fonts/rhd_bld.ttf');
+}
+
+@font-face {
+  font-family: "redhatdispBLK" ;
+  src: url('resources/fonts/rhd_blk.ttf');
+}
+
+@font-face {
+  font-family: "redhatdispEXB" ;
+  src: url('resources/fonts/rhd_exb.ttf');
+}
+
+@font-face {
+  font-family: "redhatdispI" ;
+  src: url('resources/fonts/rhd_italic.ttf');
+}
+
+/*----------------------*/
+
 body {
     display: block;
     margin: 0;
@@ -35,13 +64,20 @@ body {
     background-image: url(./img/rectangle-1.png);
     background-size: 100% 100%;
   }
+
+
+
+
+
+
+  /* Navigation Bar */
   
   .homepage .text-wrapper {
     width: 117px;
     left: 317px;
     position: absolute;
     top: 28px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -55,7 +91,7 @@ body {
     left: 573px;
     position: absolute;
     top: 28px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -69,7 +105,7 @@ body {
     left: 676px;
     position: absolute;
     top: 28px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -83,7 +119,7 @@ body {
     left: 804px;
     position: absolute;
     top: 28px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -97,7 +133,7 @@ body {
     left: 458px;
     position: absolute;
     top: 28px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -114,7 +150,68 @@ body {
     left: 55px;
     object-fit: cover;
   }
-  
+
+
+
+
+
+  /* Titles */
+  .homepage .text-wrapper-15 {
+    position: absolute;
+    width: 297px;
+    top: 145px;
+    left: 129px;
+    font-family: 'redhatdispBLK',sans-serif;
+    font-weight: 400;
+    color: #d9d9d9;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .homepage .text-wrapper-12 {
+    position: absolute;
+    width: 262px;
+    top: 322px;
+    left: 130px;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .homepage .text-wrapper-13 {
+    position: absolute;
+    width: 625px;
+    top: 1361px;
+    left: 129px;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .homepage .text-wrapper-14 {
+    position: absolute;
+    width: 456px;
+    top: 2392px;
+    left: 129px;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+
+
+
+
   .homepage .list {
     height: 273px;
     top: 392px;
@@ -158,7 +255,7 @@ body {
     left: 39px;
     position: absolute;
     top: 4px;
-    font-family: "Inter-Regular", Helvetica;
+font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 24px;
@@ -171,7 +268,7 @@ body {
     width: 262px;
     top: 52px;
     left: 285px;
-    font-family: "Inter-Regular", Helvetica;
+font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 40px;
@@ -184,7 +281,7 @@ body {
     width: 135px;
     top: 162px;
     left: 285px;
-    font-family: "Inter-Regular", Helvetica;
+font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 24px;
@@ -313,7 +410,7 @@ body {
     left: 23px;
     position: absolute;
     top: 4px;
-    font-family: "Inter-Regular", Helvetica;
+font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 24px;
@@ -338,7 +435,7 @@ body {
     width: 55px;
     top: 3px;
     left: 40px;
-    font-family: "Inter-Regular", Helvetica;
+font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 24px;
@@ -351,7 +448,7 @@ body {
     width: 262px;
     top: 18px;
     left: 26px;
-    font-family: "Inter-Regular", Helvetica;
+font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 40px;
@@ -397,57 +494,5 @@ body {
     left: 741px;
     position: absolute;
     width: 575px;
-  }
-  
-  .homepage .text-wrapper-12 {
-    position: absolute;
-    width: 262px;
-    top: 322px;
-    left: 130px;
-    font-family: "Inter-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 40px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .homepage .text-wrapper-13 {
-    position: absolute;
-    width: 625px;
-    top: 1361px;
-    left: 129px;
-    font-family: "Inter-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 40px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .homepage .text-wrapper-14 {
-    position: absolute;
-    width: 456px;
-    top: 2392px;
-    left: 129px;
-    font-family: "Inter-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 40px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .homepage .text-wrapper-15 {
-    position: absolute;
-    width: 297px;
-    top: 145px;
-    left: 129px;
-    font-family: "Inter-Regular", Helvetica;
-    font-weight: 400;
-    color: #d9d9d9;
-    font-size: 96px;
-    letter-spacing: 0;
-    line-height: normal;
   }
   
