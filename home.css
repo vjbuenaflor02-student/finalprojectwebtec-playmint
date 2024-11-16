@@ -1,3 +1,67 @@
+/* More button */
+.homepage .more3 {
+  position: absolute;
+  width: 163px;
+  height: 44px;
+  top: 2388px;
+  left: 1143px;
+  background-color: #006134;
+  border-radius: 13px;
+}
+
+.homepage .more2 {
+  position: absolute;
+  width: 163px;
+  height: 44px;
+  top: 1357px;
+  left: 1147px;
+  background-color: #006134;
+  border-radius: 13px;
+}
+
+.homepage .more1 {
+  position: absolute;
+  width: 163px;
+  height: 44px;
+  top: 327px;
+  left: 1147px;
+  background-color: #006134;
+  border-radius: 13px;
+}
+
+.homepage .moretxt {
+  left: 42px;
+  position: absolute;
+  width: 94px;
+  top: 6px;
+  font-family: 'redhatdisp',sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/* Links */
+
+a:link { 
+  color: #d9d9d9;
+  text-decoration: none; 
+} 
+a:visited { 
+  color: #d9d9d9;
+  text-decoration: none; 
+} 
+a:hover { 
+  color: yellowgreen;
+  text-decoration: none; 
+} 
+a:active { 
+  color: #d9d9d9;
+  text-decoration: none; 
+}
+
+
 /* Fonts */
 
 @font-face {
@@ -79,7 +143,6 @@ body {
     top: 28px;
     font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
-    color: #d9d9d9;
     font-size: 32px;
     letter-spacing: 0;
     line-height: normal;
@@ -93,7 +156,6 @@ body {
     top: 28px;
     font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
-    color: #d9d9d9;
     font-size: 32px;
     letter-spacing: 0;
     line-height: normal;
@@ -107,7 +169,6 @@ body {
     top: 28px;
     font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
-    color: #d9d9d9;
     font-size: 32px;
     letter-spacing: 0;
     line-height: normal;
@@ -121,7 +182,6 @@ body {
     top: 28px;
     font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
-    color: #d9d9d9;
     font-size: 32px;
     letter-spacing: 0;
     line-height: normal;
@@ -135,7 +195,6 @@ body {
     top: 28px;
     font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
-    color: #d9d9d9;
     font-size: 32px;
     letter-spacing: 0;
     line-height: normal;
