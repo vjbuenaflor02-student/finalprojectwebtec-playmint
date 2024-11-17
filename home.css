@@ -34,7 +34,7 @@
   position: absolute;
   width: 94px;
   top: 6px;
-  font-family: 'redhatdisp',sans-serif;
+  font-family: 'redhatdispB',sans-serif;
   font-weight: 400;
   color: #ffffff;
   font-size: 24px;
@@ -246,6 +246,45 @@ body {
     border-radius: 26px;
   }
 
+  .homepage .buttontextstyle { /* Button Text Styles*/
+    width: 80px;
+    left: 39px;
+    position: absolute;
+    top: 4px;
+    font-family: 'redhatdispB',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .homepage .buttontextstyle2 { /* Button Text Styles2*/
+    width: 83px;
+    left: 23px;
+    position: absolute;
+    top: 4px;
+    font-family: 'redhatdispB',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .homepage .buttontextstyle3 { /* Button Text Styles3*/
+    position: absolute;
+    width: 55px;
+    top: 3px;
+    left: 40px;
+    font-family: 'redhatdispB',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
   .homepage .buttonstyle { /* Button - Details */
     width: 163px;
     top: 198px;
@@ -297,7 +336,7 @@ body {
     width: 262px;
     top: 52px;
     left: 285px;
-    font-family: 'redhatdisp',sans-serif;
+    font-family: 'redhatdispB',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 40px;
@@ -323,7 +362,7 @@ body {
     width: 135px;
     top: 162px;
     left: 285px;
-    font-family: 'redhatdisp',sans-serif;
+    font-family: 'redhatdispI',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 24px;
@@ -336,11 +375,7 @@ body {
 
 
 
-
-
-
-
-
+  
   /* Lists */
 
   .homepage .text-wrapper-12 {
@@ -388,19 +423,6 @@ body {
     left: 129px;
     position: absolute;
     width: 575px;
-  }
-
-  .homepage .text-wrapper-6 {
-    width: 80px;
-    left: 39px;
-    position: absolute;
-    top: 4px;
-    font-family: 'redhatdisp',sans-serif;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 24px;
-    letter-spacing: 0;
-    line-height: normal;
   }
   
   .homepage .list2 {
@@ -497,32 +519,6 @@ body {
     left: 129px;
     position: absolute;
     width: 575px;
-  }
-  
-  .homepage .text-wrapper-9 {
-    width: 83px;
-    left: 23px;
-    position: absolute;
-    top: 4px;
-font-family: 'redhatdisp',sans-serif;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 24px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .homepage .text-wrapper-10 {
-    position: absolute;
-    width: 55px;
-    top: 3px;
-    left: 40px;
-font-family: 'redhatdisp',sans-serif;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 24px;
-    letter-spacing: 0;
-    line-height: normal;
   }
   
   .homepage .list-11 {
