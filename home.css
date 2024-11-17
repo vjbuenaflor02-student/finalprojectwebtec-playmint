@@ -228,6 +228,121 @@ body {
     line-height: normal;
   }
 
+  /* List Styles */
+
+  .homepage .listboarder { /* List Boarder */
+    height: 273px;
+    position: relative;
+    width: 569px;
+    background-color: #006134;
+    border-radius: 26px;
+  }
+
+  .homepage .listboarder2 { /* List Boarder2 */
+    height: 138px;
+    position: relative;
+    width: 569px;
+    background-color: #006134;
+    border-radius: 26px;
+  }
+
+  .homepage .buttonstyle { /* Button - Details */
+    width: 163px;
+    top: 198px;
+    left: 373px;
+    position: absolute;
+    height: 44px;
+    background-color: #006134;
+    border-radius: 13px;
+    border: 3px solid;
+    border-color: #d9d9d9;
+  }
+
+  .homepage .buttonstyle2 { /* Button2 - Details */
+    width: 136px;
+    top: 79px;
+    left: 415px;
+    position: absolute;
+    height: 44px;
+    background-color: #006134;
+    border-radius: 13px;
+    border: 3px solid;
+    border-color: #d9d9d9;
+  }
+
+  .homepage .buttonstyle3 { /* Button3 - Play */
+    width: 141px;
+    top: 80px;
+    left: 261px;
+    position: absolute;
+    height: 44px;
+    background-color: #006134;
+    border-radius: 13px;
+    border: 3px solid;
+    border-color: #d9d9d9;
+  }
+
+  .homepage .album_style { /* Album Style  */
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    background-color: #d9d9d9;
+    border-radius: 14px;
+  }
+
+  .homepage .songtitle_style { /*Song Title*/
+    position: absolute;
+    width: 262px;
+    top: 52px;
+    left: 285px;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .homepage .songtitle_style2 { /*Song Title2*/
+    position: absolute;
+    width: 262px;
+    top: 18px;
+    left: 26px;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .homepage .artisttitle_style { /*Artist Title*/
+    position: absolute;
+    width: 135px;
+    top: 162px;
+    left: 285px;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  /* Lists */
+
   .homepage .text-wrapper-12 {
     position: absolute;
     width: 262px;
@@ -267,10 +382,6 @@ body {
     line-height: normal;
   }
 
-
-
-
-
   .homepage .list {
     height: 273px;
     top: 392px;
@@ -278,43 +389,13 @@ body {
     position: absolute;
     width: 575px;
   }
-  
-  .homepage .overlap {
-    height: 273px;
-    position: relative;
-    width: 569px;
-    background-color: #006134;
-    border-radius: 26px;
-  }
-  
-  .homepage .rectangle {
-    position: absolute;
-    width: 223px;
-    height: 211px;
-    top: 31px;
-    left: 33px;
-    background-color: #d9d9d9;
-    border-radius: 14px;
-  }
-  
-  .homepage .overlap-group {
-    width: 163px;
-    top: 198px;
-    left: 373px;
-    position: absolute;
-    height: 44px;
-    background-color: #006134;
-    border-radius: 13px;
-    border: 3px solid;
-    border-color: #d9d9d9;
-  }
-  
+
   .homepage .text-wrapper-6 {
     width: 80px;
     left: 39px;
     position: absolute;
     top: 4px;
-font-family: 'redhatdisp',sans-serif;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 24px;
@@ -322,33 +403,7 @@ font-family: 'redhatdisp',sans-serif;
     line-height: normal;
   }
   
-  .homepage .text-wrapper-7 {
-    position: absolute;
-    width: 262px;
-    top: 52px;
-    left: 285px;
-font-family: 'redhatdisp',sans-serif;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 40px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .homepage .text-wrapper-8 {
-    position: absolute;
-    width: 135px;
-    top: 162px;
-    left: 285px;
-font-family: 'redhatdisp',sans-serif;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 24px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .homepage .overlap-wrapper {
+  .homepage .list2 {
     height: 273px;
     top: 392px;
     left: 741px;
@@ -356,7 +411,7 @@ font-family: 'redhatdisp',sans-serif;
     width: 575px;
   }
   
-  .homepage .overlap-group-wrapper {
+  .homepage .list5 {
     height: 273px;
     top: 980px;
     left: 129px;
@@ -444,26 +499,6 @@ font-family: 'redhatdisp',sans-serif;
     width: 575px;
   }
   
-  .homepage .overlap-2 {
-    height: 138px;
-    position: relative;
-    width: 569px;
-    background-color: #006134;
-    border-radius: 26px;
-  }
-  
-  .homepage .overlap-group-2 {
-    width: 136px;
-    top: 79px;
-    left: 415px;
-    position: absolute;
-    height: 44px;
-    background-color: #006134;
-    border-radius: 13px;
-    border: 3px solid;
-    border-color: #d9d9d9;
-  }
-  
   .homepage .text-wrapper-9 {
     width: 83px;
     left: 23px;
@@ -477,18 +512,6 @@ font-family: 'redhatdisp',sans-serif;
     line-height: normal;
   }
   
-  .homepage .overlap-group-3 {
-    width: 141px;
-    top: 80px;
-    left: 261px;
-    position: absolute;
-    height: 44px;
-    background-color: #006134;
-    border-radius: 13px;
-    border: 3px solid;
-    border-color: #d9d9d9;
-  }
-  
   .homepage .text-wrapper-10 {
     position: absolute;
     width: 55px;
@@ -498,19 +521,6 @@ font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #ffffff;
     font-size: 24px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .homepage .text-wrapper-11 {
-    position: absolute;
-    width: 262px;
-    top: 18px;
-    left: 26px;
-font-family: 'redhatdisp',sans-serif;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 40px;
     letter-spacing: 0;
     line-height: normal;
   }
