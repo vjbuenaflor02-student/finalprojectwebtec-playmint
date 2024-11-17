@@ -76,7 +76,7 @@ a:active {
 
 @font-face {
   font-family: "redhatdispBLK" ;
-  src: url('/resources/fonts/rhd_blk.ttf');
+  src: url('resources/fonts/rhd_blk.ttf');
 }
 
 @font-face {
@@ -140,7 +140,7 @@ body {
   width: 96px;
   top: 27px;
   left: 318px;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: 'redhatdisp',sans-serif;
   font-weight: 400;
   color: #d9d9d9;
   font-size: 32px;
@@ -154,7 +154,7 @@ body {
   top: 28px;
   left: 439px;
   position: absolute;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: 'redhatdisp',sans-serif;
   font-weight: 400;
   color: #d9d9d9;
   font-size: 32px;
@@ -168,7 +168,7 @@ body {
   top: 28px;
   left: 705px;
   position: absolute;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: 'redhatdisp',sans-serif;
   font-weight: 400;
   color: #d9d9d9;
   font-size: 32px;
@@ -182,7 +182,7 @@ body {
   top: 29px;
   left: 813px;
   position: absolute;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: 'redhatdisp',sans-serif;
   font-weight: 400;
   color: #d9d9d9;
   font-size: 32px;
@@ -196,7 +196,7 @@ body {
   top: 28px;
   left: 946px;
   position: absolute;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: 'redhatdisp',sans-serif;
   font-weight: 400;
   color: #d9d9d9;
   font-size: 32px;
@@ -210,7 +210,7 @@ body {
   top: 28px;
   left: 585px;
   position: absolute;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: 'redhatdisp',sans-serif;
   font-weight: 400;
   color: #d9d9d9;
   font-size: 32px;
@@ -229,16 +229,73 @@ body {
 }
 
 
-/* Titles */
+/* Title Style */
 .musics-library .text-wrapper-10 {
   position: absolute;
-  width: 612px;
   top: 145px;
   left: 129px;
   font-family: 'redhatdispBLK',sans-serif;
   font-weight: 400;
   color: #d9d9d9;
   font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/* List Styles */
+
+.musics-library .listboarder { /* List Boarder */
+  position: relative;
+  width: 569px;
+  height: 273px;
+  background-color: #006134;
+  border-radius: 26px;
+}
+
+.musics-library .album_style { /* Album */
+  position: absolute;
+  width: 223px;
+  height: 211px;
+  top: 31px;
+  left: 33px;
+  background-color: #d9d9d9;
+  border-radius: 14px;
+}
+
+.musics-library .buttonstyle { /* Button */
+  position: absolute;
+  width: 163px;
+  height: 44px;
+  top: 198px;
+  left: 373px;
+  background-color: #006134;
+  border-radius: 13px;
+  border: 3px solid;
+  border-color: #d9d9d9;
+}
+
+.musics-library .songtitle_style { /*Song Title*/
+  position: absolute;
+  width: 262px;
+  top: 52px;
+  left: 285px;
+  font-family: 'redhatdispBLK',sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.musics-library .artisttitle_style { /*Artist Title*/
+  position: absolute;
+  width: 135px;
+  top: 162px;
+  left: 285px;
+  font-family: 'redhatdispBLK',sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
 }
@@ -268,8 +325,7 @@ body {
 
 
 
-
-.musics-library .list {
+.musics-library .list { /* LIST 1 */
   position: absolute;
   width: 575px;
   height: 273px;
@@ -277,15 +333,7 @@ body {
   left: 129px;
 }
 
-.musics-library .overlap { /* LIST 1 */
-  position: relative;
-  width: 569px;
-  height: 273px;
-  background-color: #006134;
-  border-radius: 26px;
-}
-
-.musics-library .overlap-wrapper { /* LIST 2 */
+.musics-library .list2 { /* LIST 2 */
   top: 323px;
   left: 741px;
   position: absolute;
@@ -293,7 +341,7 @@ body {
   height: 273px;
 }
 
-.musics-library .overlap-group-wrapper { /* LIST 13 */
+.musics-library .list13 { /* LIST 13 */
   top: 2087px;
   left: 129px;
   position: absolute;
@@ -309,68 +357,18 @@ body {
   height: 273px;
 }
 
-
-.musics-library .rectangle {
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  background-color: #d9d9d9;
-  border-radius: 14px;
-}
-
-.musics-library .overlap-group {
-  position: absolute;
-  width: 163px;
-  height: 44px;
-  top: 198px;
-  left: 373px;
-  background-color: #006134;
-  border-radius: 13px;
-  border: 3px solid;
-  border-color: #d9d9d9;
-}
-
 .musics-library .text-wrapper-7 {
   position: absolute;
   width: 80px;
   top: 4px;
   left: 39px;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: 'redhatdispBLK',sans-serif;
   font-weight: 400;
   color: #ffffff;
   font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
 }
-
-.musics-library .text-wrapper-8 {
-  position: absolute;
-  width: 262px;
-  top: 52px;
-  left: 285px;
-  font-family: "Inter-Regular", Helvetica;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 40px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.musics-library .text-wrapper-9 {
-  position: absolute;
-  width: 135px;
-  top: 162px;
-  left: 285px;
-  font-family: "Inter-Regular", Helvetica;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 24px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
 
 .musics-library .list-2 {
   top: 911px;
