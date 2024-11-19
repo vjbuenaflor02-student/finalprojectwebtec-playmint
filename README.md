@@ -22,5 +22,35 @@
 
 
 - File Directory in BGM Library -
+1 - Apollo On The Run - Echo [NCS Release]
+2 - Chime - Win & Lose [NCS Release]
+3 - Everen Maxwell - Hinterlands [NCS Release]
+4 - Extra Terra, Max Brhon - Cyberblade [NCS Release]
+5 - More Plastic - Obsession [NCS Release]
+6 - NIVIRO - The Riot [NCS Release]
+7 - Rival, Alan Walker - Dreamer (Rival Remix) [NCS Release]
+8 - Robbie Hutton, Janji - Call My Name [NCS Release]
+9 - ROY KNOX - Your Poison [NCS Release]
+10 - Sayfro, BAYZY - On and On [NCS Release]
 
 - File Directory in SFX Library -
+1 - Anime wow sound effect
+2 - AUGH Meme Sound Effect
+3 - Bruh - Sound Effect (HD)
+4 - Epic Choir Suspense - Sound Effect (HD)
+5 - FBI Open Up - Sound Effect (HD)
+6 - Goat Scream - Sound Effect (HD)
+7 - Heavenly Music - Sound Effect (HD)
+8 - IDubbbzTV - Hey, that's pretty good
+9 - ILLUMINATI CONFIRMED (The X-Files Theme) - Sound Effect (HD)
+10 - Kids Cheering - Sound Effect (HD)
+11 - laughing meme sound effect
+12 - Man Screaming - CEEDAY Sound Effect (HD)
+13 - Mario Jump - Gaming Sound Effect (HD)
+14 - OH BABY A TRIPLE - Sound Effect (HD)
+15 - Tape Rewind - Sound Effect (HD)
+16 - The Wilhelm scream sound effect
+17 - They ask you how you are and you just have to say that you're fine Sound Effect
+18 - Vine Boom sound effect meme
+19 - We'll be right back Sound Effect meme
+20 - What The Hell Meme Sound Effect
