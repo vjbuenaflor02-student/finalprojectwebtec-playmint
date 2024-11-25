@@ -213,6 +213,11 @@ a:link {
     border: 3px solid;
     border-color: #ffffff;
   }
+
+  #audiop {
+    position: absolute;
+    left: 20%;
+  }
   
   .musics-library .rectangle-2 {
     position: absolute;
@@ -220,7 +225,7 @@ a:link {
     height: 500px;
     top: 0;
     left: 684px;
-    background-color: #d9d9d9;
+    content: url(resources/files/musiclib/album/m01.jpg);
     border-radius: 14px;
   }
   
@@ -294,7 +299,7 @@ a:link {
     font-family: 'redhatdispBLK',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
-    font-size: 96px;
+    font-size: 72px;
     letter-spacing: 0;
     line-height: normal;
   }
