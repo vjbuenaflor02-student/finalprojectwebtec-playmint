@@ -98,7 +98,7 @@ a:link {
     top: 28px;
     left: 439px;
     position: absolute;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -112,7 +112,7 @@ a:link {
     top: 28px;
     left: 705px;
     position: absolute;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -126,7 +126,7 @@ a:link {
     top: 29px;
     left: 813px;
     position: absolute;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -140,7 +140,7 @@ a:link {
     top: 28px;
     left: 946px;
     position: absolute;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -154,7 +154,7 @@ a:link {
     top: 28px;
     left: 585px;
     position: absolute;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -177,7 +177,7 @@ a:link {
     width: 96px;
     top: 27px;
     left: 318px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -229,7 +229,7 @@ a:link {
     width: 612px;
     top: 123px;
     left: 0;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 48px;
@@ -264,7 +264,7 @@ a:link {
     width: 159px;
     top: 16px;
     left: 34px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdispB',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -278,7 +278,7 @@ a:link {
     width: 839px;
     top: 33px;
     left: 36px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdisp',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 32px;
@@ -291,7 +291,7 @@ a:link {
     width: 612px;
     top: 145px;
     left: 129px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: 'redhatdispBLK',sans-serif;
     font-weight: 400;
     color: #d9d9d9;
     font-size: 96px;
