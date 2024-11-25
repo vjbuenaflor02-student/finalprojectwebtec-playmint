@@ -321,16 +321,6 @@ body {
     border-color: #d9d9d9;
   }
 
-  .homepage .album_style { /* Album Style  */
-    position: absolute;
-    width: 223px;
-    height: 211px;
-    top: 31px;
-    left: 33px;
-    background-color: #d9d9d9;
-    border-radius: 14px;
-  }
-
   .homepage .songtitle_style { /*Song Title*/
     position: absolute;
     width: 262px;
@@ -339,7 +329,7 @@ body {
     font-family: 'redhatdispB',sans-serif;
     font-weight: 400;
     color: #ffffff;
-    font-size: 40px;
+    font-size: 30px;
     letter-spacing: 0;
     line-height: normal;
   }
@@ -365,10 +355,133 @@ body {
     font-family: 'redhatdispI',sans-serif;
     font-weight: 400;
     color: #ffffff;
-    font-size: 24px;
+    font-size: 17px;
     letter-spacing: 0;
     line-height: normal;
   }
+
+  /* Album Images */
+
+  .homepage .album_style_m1 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url(resources/files/musiclib/album/m01.jpg);
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_m2 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url(resources/files/musiclib/album/m19.jpg);
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_m3 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url(resources/files/musiclib/album/m05.jpg);
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_m4 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url(resources/files/musiclib/album/m11.jpg);
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_m5 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url(resources/files/musiclib/album/m16.jpg);
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_m6 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url(resources/files/musiclib/album/m15.jpg);
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_bgm1 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url();
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_bgm2 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url();
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_bgm3 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url();
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_bgm4 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url();
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_bgm5 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url();
+    border-radius: 14px;
+  }
+
+  .homepage .album_style_bgm6 { 
+    position: absolute;
+    width: 223px;
+    height: 211px;
+    top: 31px;
+    left: 33px;
+    content: url();
+    border-radius: 14px;
+  }
+
 
 
 
