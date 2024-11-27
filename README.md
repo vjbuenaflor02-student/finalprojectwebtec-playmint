@@ -25,9 +25,9 @@
 - 22 - Cartoon, Coleman Trapp, Jéja - Why We Lose (feat. Coleman Trapp)
 - 23 - Electro-Light, Jordan Kelvin James, Anna Yvette - Wait For You (feat. Anna Yvette)
 - 24 - Jim Yosef, Anna Yvette - Linked
-- 25 - OMFG - Meant for You
+- 25 - OMFG - Meant for You <--
 - 26 - Janji - Heroes Tonight
-- 27 - Syn Cole - Got the Feeling (feat. kirstin)
+- 27 - Syn Cole - Got the Feeling (feat. kirstin) 
 - 28 - Sub Urban - Cradles
 - 29 - 
 - 30 - 
@@ -49,22 +49,22 @@
 - 11 - Lenko - Let's GO!
 - 12 - Laszlo - Supernova
 - 13 - Noisestorm - Crab Rave <--
-- 14 - Ahrix - Nova
+- 14 - Ahrix - Nova <--
 - 15 - Different Heaven - Nekozilla
 - 16 - TheFatRat - Unity <--
 - 17 - JPB - High
 - 18 - Disfigure - Blank
 - 19 - Jim Yosef - Link
-- 20 - OMFG - Hello
-- 21 - OMFG - Peanut Butter
-- 22 - OMFG - Dying
-- 22 - OMFG - Nope
-- 23 - DEAF KEV - Invincibl
+- 20 - OMFG - Hello <--
+- 21 - OMFG - Peanut Butter <--
+- 22 - OMFG - Dying <--
+- 22 - OMFG - Nope <--
+- 23 - DEAF KEV - Invincible
 - 24 - Tobu - Candyland
 - 25 - Julius Dreisig & Zeus X Crona - Invisible
 - 26 - Desmeon - Hellcat
-- 27 - Sharou - 2:23 AM 
-- 28 - Sharou - 3:03 PM
+- 27 - Sharou - 2:23 AM <--
+- 28 - Sharou - 3:03 PM <--
 - 29 - 昼下がり気分 <--
 - 30 - しゅわしゅわハニーレモン350ml <--
 - 31 - Stream <--
