@@ -108,7 +108,7 @@
     background-color: #000000;
     overflow: hidden;
     width: 1440px;
-    height: 3315px;
+    height: 6000px;
     position: relative;
   }
   
@@ -478,6 +478,86 @@
   
   .musics-library .list-17 {
     top: 2381px;
+    left: 741px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+
+  .musics-library .list21 {
+    top: 3270px;
+    left: 129px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+  
+  .musics-library .list22 {
+    top: 3270px;
+    left: 741px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+  
+  .musics-library .list23 {
+    top: 3570px;
+    left: 129px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+  
+  .musics-library .list24 {
+    top: 3570px;
+    left: 741px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+  
+  .musics-library .list25 {
+    top: 3870px;
+    left: 129px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+  
+  .musics-library .list26 {
+    top: 3870px;
+    left: 741px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+  
+  .musics-library .list27 {
+    top: 4170px;
+    left: 129px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+  
+  .musics-library .list28 {
+    top: 4170px;
+    left: 741px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+  
+  .musics-library .list29 {
+    top: 4470px;
+    left: 129px;
+    position: absolute;
+    width: 575px;
+    height: 273px;
+  }
+  
+  .musics-library .list30 {
+    top: 4470px;
     left: 741px;
     position: absolute;
     width: 575px;
