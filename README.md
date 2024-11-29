@@ -19,21 +19,21 @@
 - 18 - Linn Sandin, Midranger, Poylow - Revolution [NCS Release]
 - 19 - Warriyo, Laura Brehm - Mortals (feat. Laura Brehm) [NCS Release]
 - 20 - Maestro Chives, Egzod, Neoni - Royalty [NCS Release]
-
-## **Unadded Musics**
-- 21 - Cartoon, Daniel Levi, Jéja - On & On (feat. Daniel Levi)
-- 22 - Cartoon, Coleman Trapp, Jéja - Why We Lose (feat. Coleman Trapp)
-- 23 - Electro-Light, Jordan Kelvin James, Anna Yvette - Wait For You (feat. Anna Yvette)
+- 21 - Cartoon, Daniel Levi, Jéja - On & On (feat. Daniel Levi) [NCS Release]
+- 22 - Cartoon, Coleman Trapp, Jéja - Why We Lose (feat. Coleman Trapp) [NCS Release]
+- 23 - Electro-Light, Jordan Kelvin James, Anna Yvette - Wait For You (feat. Anna Yvette) [NCS Release]
 - 24 - Jim Yosef, Anna Yvette - Linked
-- 25 - OMFG - Meant for You <--
-- 26 - Janji - Heroes Tonight
+- 25 - OMFG - Meant for You
+- 26 - Janji, Johnning - Heroes Tonight (feat. Johnning) [NCS Release]  
 - 27 - Syn Cole - Got the Feeling (feat. kirstin) 
 - 28 - Sub Urban - Cradles
+
+## **Unadded Musics**
 - 29 - 
 - 30 - 
 
 
-## **File Directory in BGM Library**
+## **File Directory in BGM Library**                
 - 1 - Apollo On The Run - Echo [NCS Release]
 - 2 - Chime - Win & Lose [NCS Release]
 - 3 - Everen Maxwell - Hinterlands [NCS Release]
