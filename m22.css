@@ -1,48 +1,4 @@
-/* More button */
-.homepage .more3 {
-  position: absolute;
-  width: 163px;
-  height: 44px;
-  top: 2388px;
-  left: 1143px;
-  background-color: #006134;
-  border-radius: 13px;
-}
-
-.homepage .more2 {
-  position: absolute;
-  width: 163px;
-  height: 44px;
-  top: 1357px;
-  left: 1147px;
-  background-color: #006134;
-  border-radius: 13px;
-}
-
-.homepage .more1 {
-  position: absolute;
-  width: 163px;
-  height: 44px;
-  top: 327px;
-  left: 1147px;
-  background-color: #006134;
-  border-radius: 13px;
-}
-
-.homepage .moretxt {
-  left: 42px;
-  position: absolute;
-  width: 94px;
-  top: 6px;
-  font-family: 'redhatdisp',sans-serif;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 24px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-/* Links */
+/* Link  */
 
 a:link { 
   color: #d9d9d9;
@@ -96,24 +52,32 @@ body {
     margin: 0;
 }
 
+
+
+
+
+
+
+
+
+
 .musics-library {
-  background-color: #006234;
+  background-color: #006134;
   display: flex;
   flex-direction: row;
   justify-content: center;
   width: 100%;
 }
 
-.musics-library .div {
-  background-color: #000000;
+.musics-library .page {
+  background-color: #1e1e1e;
   overflow: hidden;
   width: 1440px;
-  height: 4800px;
+  height: 1316px;
   position: relative;
 }
 
 .musics-library .div-2 {
-  background-color: #1E1E1E;
   position: absolute;
   width: 1450px;
   height: 95px;
@@ -127,26 +91,6 @@ body {
   height: 95px;
   background-image: url(./img/rectangle-1.png);
   background-size: 100% 100%;
-}
-
-
-
-
-
- /* Navigation Bar */
-
- .musics-library .text-wrapper-6 {
-  position: absolute;
-  width: 96px;
-  top: 27px;
-  left: 318px;
-  font-family: 'redhatdisp',sans-serif;
-  font-weight: 400;
-  color: #d9d9d9;
-  font-size: 32px;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
 }
 
 .musics-library .text-wrapper {
@@ -214,628 +158,136 @@ body {
   object-fit: cover;
 }
 
+.musics-library .text-wrapper-6 {
+  position: absolute;
+  width: 96px;
+  top: 27px;
+  left: 318px;
+  font-family: 'redhatdisp',sans-serif;
+  font-weight: 400;
+  color: #d9d9d9;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
 
-/* Title Style */
+.musics-library .overlap {
+  position: absolute;
+  width: 1184px;
+  height: 500px;
+  top: 302px;
+  left: 129px;
+}
+
+.musics-library .list {
+  position: absolute;
+  width: 1184px;
+  height: 500px;
+  top: 0;
+  left: 0;
+}
+
+.musics-library .rectangle {
+  position: absolute;
+  width: 636px;
+  height: 70px;
+  top: 390px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 26px;
+  border: 3px solid;
+  border-color: #006134;
+}
+
+#audiop {
+  position: absolute;
+  padding-left: 5px;
+  width: 98%;
+  height: 63px;
+}
+
+.musics-library .rectangle-2 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 0;
+  left: 684px;
+  content: url(resources/files/musiclib/album/m22.jpg);
+  border-radius: 14px;
+}
+
+.musics-library .text-wrapper-7 {
+  position: absolute;
+  width: 612px;
+  top: 123px;
+  left: 0;
+  font-family: 'redhatdisp',sans-serif;
+  font-weight: 400;
+  color: #d9d9d9;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.musics-library .overlap-group {
+  position: absolute;
+  width: 918px;
+  height: 370px;
+  top: 832px;
+  left: 129px;
+  background-color: #006134;
+  border-radius: 26px;
+}
+
+.musics-library .div-wrapper {
+  position: absolute;
+  width: 233px;
+  height: 76px;
+  top: 265px;
+  left: 655px;
+  background-color: #006134;
+  border-radius: 26px;
+  border: 3px solid;
+  border-color: #ffffff;
+}
+
+.musics-library .text-wrapper-8 {
+  position: absolute;
+  width: 159px;
+  top: 16px;
+  left: 34px;
+  font-family: 'redhatdispB',sans-serif;
+  font-weight: 400;
+  color: #d9d9d9;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.musics-library .text-wrapper-9 {
+  position: absolute;
+  width: 839px;
+  top: 33px;
+  left: 36px;
+  font-family: 'redhatdisp',sans-serif;
+  font-weight: 400;
+  color: #d9d9d9;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
 .musics-library .text-wrapper-10 {
   position: absolute;
+  width: 612px;
   top: 145px;
   left: 129px;
   font-family: 'redhatdispBLK',sans-serif;
   font-weight: 400;
   color: #d9d9d9;
-  font-size: 96px;
+  font-size: 72px;
   letter-spacing: 0;
   line-height: normal;
 }
-
-/* List Styles */
-
-.musics-library .listboarder { /* List Boarder */
-  position: relative;
-  width: 569px;
-  height: 273px;
-  background-color: #006134;
-  border-radius: 26px;
-}
-
-.musics-library .buttonstyle { /* Button */
-  position: absolute;
-  width: 163px;
-  height: 44px;
-  top: 198px;
-  left: 373px;
-  background-color: #006134;
-  border-radius: 13px;
-  border: 3px solid;
-  border-color: #d9d9d9;
-}
-
-.musics-library .buttontextstyle { /* Button Text Styles*/
-  position: absolute;
-  width: 80px;
-  top: 4px;
-  left: 39px;
-  font-family: 'redhatdispB',sans-serif;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 24px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.musics-library .songtitle_style { /*Song Title*/
-  position: absolute;
-  width: 262px;
-  top: 52px;
-  left: 285px;
-  font-family: 'redhatdispB',sans-serif;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 25px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.musics-library .artisttitle_style { /*Artist Title*/
-  position: absolute;
-  width: 135px;
-  top: 162px;
-  left: 285px;
-  font-family: 'redhatdispI',sans-serif;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 14px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-/* Album Images */
-
-.musics-library .album_style1 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m01.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style2 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m02.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style3 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m03.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style4 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m04.png);
-  border-radius: 14px;
-}
-
-.musics-library .album_style5 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m05.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style6 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m06.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style7 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m07.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style8 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m08.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style9 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m09.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style10 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m10.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style11 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m11.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style12 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m12.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style13 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m13.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style14 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m14.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style15 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m15.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style16 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m16.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style17 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m17.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style18 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m18.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style19 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m19.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style20 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m20.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style21 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m21.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style22 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m22.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style23 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m23.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style24 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m24.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style25 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m25.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style26 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m26.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style27 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m27.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style28 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m28.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style29 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m29.jpg);
-  border-radius: 14px;
-}
-
-.musics-library .album_style30 { 
-  position: absolute;
-  width: 223px;
-  height: 211px;
-  top: 31px;
-  left: 33px;
-  content: url(resources/files/musiclib/album/m30.jpg);
-  border-radius: 14px;
-}
-
-
-
-
-
-
-
-
-
-.musics-library .list { /* LIST 1 */
-  position: absolute;
-  width: 575px;
-  height: 273px;
-  top: 323px;
-  left: 129px;
-}
-
-.musics-library .list2 { /* LIST 2 */
-  top: 323px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list13 { /* LIST 13 */
-  top: 2087px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .div-wrapper { /* LIST 14 */
-  top: 2087px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-2 {
-  top: 911px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-3 {
-  top: 911px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-4 {
-  top: 617px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-5 {
-  top: 617px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-6 {
-  top: 1205px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-7 {
-  top: 1205px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-8 {
-  top: 1793px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-9 {
-  top: 1793px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-10 {
-  top: 1499px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-11 {
-  top: 1499px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-12 {
-  top: 2969px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-13 {
-  top: 2969px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-14 {
-  top: 2675px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-15 {
-  top: 2675px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-16 {
-  top: 2381px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list-17 {
-  top: 2381px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list21 {
-  top: 3270px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list22 {
-  top: 3270px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list23 {
-  top: 3570px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list24 {
-  top: 3570px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list25 {
-  top: 3870px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list26 {
-  top: 3870px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list27 {
-  top: 4170px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list28 {
-  top: 4170px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list29 {
-  top: 4470px;
-  left: 129px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
-.musics-library .list30 {
-  top: 4470px;
-  left: 741px;
-  position: absolute;
-  width: 575px;
-  height: 273px;
-}
-
