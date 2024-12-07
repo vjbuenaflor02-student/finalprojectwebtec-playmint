@@ -1,5 +1,5 @@
 ## **File Directory in Music Library**
-- 1 - Rival, Alan Walker - Dreamer (Rival Remix) [NCS Release] /
+- 1 - (Changed music to bgm)
 - 2 - BEKSY. - Stars in the Sky [NCS Release] /
 - 3 - Rameses B - Cybernetic [NCS Release] /
 - 4 - DYNAMIS, HXDES - Kapoeira Phonk [NCS Release] /
@@ -34,16 +34,16 @@
 
 
 ## **File Directory in BGM Library**                
-- 1 - Apollo On The Run - Echo [NCS Release]
-- 2 - Chime - Win & Lose [NCS Release]
-- 3 - Everen Maxwell - Hinterlands [NCS Release]
-- 4 - Extra Terra, Max Brhon - Cyberblade [NCS Release]
-- 5 - More Plastic - Obsession [NCS Release]
-- 6 - NIVIRO - The Riot [NCS Release]
-- 7 - Rival, Alan Walker - Dreamer (Rival Remix) [NCS Release]
-- 8 - Robbie Hutton, Janji - Call My Name [NCS Release]
-- 9 - ROY KNOX - Your Poison [NCS Release]
-- 10 - Sayfro, BAYZY - On and On [NCS Release]
+- 1 - Apollo On The Run - Echo [NCS Release] /
+- 2 - Chime - Win & Lose [NCS Release] /
+- 3 - Everen Maxwell - Hinterlands [NCS Release] /
+- 4 - Extra Terra, Max Brhon - Cyberblade [NCS Release] /
+- 5 - More Plastic - Obsession [NCS Release] /
+- 6 - NIVIRO - The Riot [NCS Release] /
+- 7 - Rival, Alan Walker - Dreamer (Rival Remix) [NCS Release] /
+- 8 - Robbie Hutton, Janji - Call My Name [NCS Release] /
+- 9 - ROY KNOX - Your Poison [NCS Release] /
+- 10 - Sayfro, BAYZY - On and On [NCS Release] /
 
 ## **Unadded BGM**
 - 11 - Lenko - Let's GO!
