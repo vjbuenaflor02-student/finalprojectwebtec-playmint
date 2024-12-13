@@ -1,0 +1,191 @@
+/* Link  */
+
+a:link { 
+    color: #d9d9d9;
+    text-decoration: none; 
+  } 
+  a:visited { 
+    color: #d9d9d9;
+    text-decoration: none; 
+  } 
+  a:hover { 
+    color: yellowgreen;
+    text-decoration: none; 
+  } 
+  a:active { 
+    color: #d9d9d9;
+    text-decoration: none; 
+  }
+  
+  
+  /* Fonts */
+  
+  @font-face {
+    font-family: "redhatdisp" ;
+    src: url('resources/fonts/rhd.ttf');
+  }
+  
+  @font-face {
+    font-family: "redhatdispB" ;
+    src: url('resources/fonts/rhd_bld.ttf');
+  }
+  
+  @font-face {
+    font-family: "redhatdispBLK" ;
+    src: url('resources/fonts/rhd_blk.ttf');
+  }
+  
+  @font-face {
+    font-family: "redhatdispEXB" ;
+    src: url('resources/fonts/rhd_exb.ttf');
+  }
+  
+  @font-face {
+    font-family: "redhatdispI" ;
+    src: url('resources/fonts/rhd_italic.ttf');
+  }
+  
+  /*----------------------*/
+  
+  body {
+      display: block;
+      margin: 0;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.musics-library {
+    background-color: #006134;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .musics-library .div {
+    background-color: #1e1e1e;
+    overflow: hidden;
+    width: 1440px;
+    height: 1475px;
+    position: relative;
+  }
+  
+  .musics-library .div-2 {
+    position: absolute;
+    width: 1446px;
+    height: 95px;
+    top: 0;
+    left: 0;
+  }
+  
+  .musics-library .overlap-group {
+    position: relative;
+    width: 1440px;
+    height: 95px;
+    background-image: url(./img/rectangle-1.png);
+    background-size: 100% 100%;
+  }
+  
+  .musics-library .text-wrapper {
+    width: 117px;
+    top: 28px;
+    left: 439px;
+    position: absolute;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #d9d9d9;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .musics-library .text-wrapper-2 {
+    width: 79px;
+    top: 28px;
+    left: 705px;
+    position: absolute;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #d9d9d9;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .musics-library .text-wrapper-3 {
+    width: 91px;
+    top: 28px;
+    left: 585px;
+    position: absolute;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #d9d9d9;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .musics-library .pmlogo {
+    position: absolute;
+    width: 199px;
+    height: 61px;
+    top: 17px;
+    left: 55px;
+    object-fit: cover;
+  }
+  
+  .musics-library .text-wrapper-4 {
+    position: absolute;
+    width: 96px;
+    top: 27px;
+    left: 318px;
+    font-family: 'redhatdisp',sans-serif;
+    font-weight: 400;
+    color: #d9d9d9;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .musics-library .text-wrapper-5 {
+    position: absolute;
+    width: 612px;
+    top: 145px;
+    left: 129px;
+    font-family: 'redhatdispB',sans-serif;
+    font-weight: 400;
+    color: #d9d9d9;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .musics-library .text-wrapper-6 {
+    position: absolute;
+    width: 1130px;
+    top: 297px;
+    left: 129px;
+    font-family: 'redhatdispI',sans-serif;
+    font-weight: 400;
+    color: #d9d9d9;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
